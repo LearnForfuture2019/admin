@@ -1,0 +1,13 @@
+.my-login-card{
+  width: 40%;
+  min-width: 400px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%,-50%,0);
+  margin-top: -50px;
+  border: 1px solid #dedede;
+}
+.root{
+
+}

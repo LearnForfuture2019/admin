@@ -1,0 +1,10 @@
+/*这是解决掉编辑器覆盖页面的问题*/
+.qf-admin{
+  position: relative;
+  z-index: 0;
+}
+/*这是使得编辑器是响应式布局*/
+.w-e-toolbar{
+  display: flex;
+  flex-wrap: wrap;
+}
